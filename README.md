@@ -3,7 +3,7 @@
 <p>The flight ticket buying system is to purchase a ticket many days prior to flight take-off so as to stay away from the effect of the
 most extreme charge. Mostly, aviation routes don’t agree this procedure. Plane organizations may diminish the cost at the time, they
 need to build the market and at the time when the tickets are less accessible. They may maximize the costs. So, the cost may rely
-upon different factors. To foresee the costs this venture uses AI to exhibit the ways of flight tickets after some time. All
+upon different factors. To foresee the costs this venture uses AI to exhibit the ways of flight tickets after some time. All 
 organizations have the privilege and opportunity to change its ticket costs at any time. Explorer can set aside cash by booking a
 ticket at the least costs. People who had travelled by flight frequently are aware of price fluctuations. The airlines use complex
 policies of Revenue Management for execution of distinctive evaluating systems. The evaluating system as a result changes the
